@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397781206969",
+    "firebase_url": "https://prohelika-c127b.firebaseio.com",
+    "project_id": "prohelika-c127b",
+    "storage_bucket": "prohelika-c127b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397781206969:android:f617e277081bd7af",
+        "android_client_info": {
+          "package_name": "com.asus.technomania.prohelika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397781206969-8c7qpmf1f06f13pu8ccgnh82b2g22bfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asus.technomania.prohelika",
+            "certificate_hash": "360a39d19c8c96215ec26eb4054e763e690fa6d2"
+          }
+        },
+        {
+          "client_id": "397781206969-31vb5p6f15rgl2vupuqc206dssb1ie3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2ZeIgHF_Z7UflzM-h4aLI6_L9ZV0rO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397781206969-31vb5p6f15rgl2vupuqc206dssb1ie3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
